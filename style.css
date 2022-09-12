@@ -1,0 +1,27 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    color: #270094;
+    background-color: beige;
+}
+
+h2 {
+    color: #7e0000;
+    background-color: cadetblue;
+}
+
+h3 {
+    color: olivedrab;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+}
